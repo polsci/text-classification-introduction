@@ -6,7 +6,7 @@ The notebook in this repository is provided for students in DIGI405 at the Unive
 
 Portions of this notebook are based on examples from the scikit-learn developers, including [this notebook](https://scikit-learn.org/stable/auto_examples/text/plot_document_classification_20newsgroups.html).
 
-Changes are documented in the [CHANGELOG](changelog.md).
+Changes are documented in the [CHANGELOG](CHANGELOG.md).
 
 ## Instructions for DIGI405 students
 
