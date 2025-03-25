@@ -1,12 +1,17 @@
 # Text Classification Introduction
 
-Version 1.0.1
-
 The notebook in this repository is provided for students in DIGI405 at the University of Canterbury for a lab introducing text classification.   
+
+Changes and release version numbers are documented in the [CHANGELOG](CHANGELOG.md).
+
+## Acknowledgements
 
 Portions of this notebook are based on examples from the scikit-learn developers, including [this notebook](https://scikit-learn.org/stable/auto_examples/text/plot_document_classification_20newsgroups.html).
 
-Changes are documented in the [CHANGELOG](CHANGELOG.md).
+Geoff Ford did the primary work on this notebook. The following people have contributed revisions:
+- Phil Davies  
+- Karin Stahel  
+- Chris Thomson  
 
 ## Instructions for DIGI405 students
 
