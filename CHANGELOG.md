@@ -1,5 +1,12 @@
 # Change log
 
+## [unreleased] - the following minor changes are reflected in the main branch, but are unreleased
+
+### Changed:
+
+- Documentation changes for maintainability
+- Add acknowledgements
+
 ## [1.0.2] - 2025-03-17
 
 ### Changed:
