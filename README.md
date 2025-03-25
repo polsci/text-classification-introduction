@@ -8,7 +8,7 @@ Changes and release version numbers are documented in the [CHANGELOG](CHANGELOG.
 
 Portions of this notebook are based on examples from the scikit-learn developers, including [this notebook](https://scikit-learn.org/stable/auto_examples/text/plot_document_classification_20newsgroups.html).
 
-Geoff Ford did the primary work on this notebook. The following people have contributed revisions:
+Geoff Ford did the primary work on this notebook based on lab material developed by Chris Thomson pre-2019 that used the Orange text classification GUI. The following people have contributed revisions:
 - Phil Davies  
 - Karin Stahel  
 - Chris Thomson  
