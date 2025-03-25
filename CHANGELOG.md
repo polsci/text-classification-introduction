@@ -1,5 +1,12 @@
 # Change log
 
+## [1.0.2] - 2025-03-17
+
+### Changed:
+
+- Added import for typing annotations if using Python <= 3.8  
+- Minor changes to instruction text  
+
 ## [1.0.1] - 2025-03-17
 
 ### Changed:
