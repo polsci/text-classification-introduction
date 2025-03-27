@@ -94,7 +94,7 @@ class NLTKNormalizer(BaseEstimator, TransformerMixin):
 					tag = wordnet.VERB
 				elif token[1].startswith('R'):
 					tag = wordnet.ADV
-				lemmatised_tokens.append(self.lemmatize(token[0],tag))
+				lemmatised_tokens.append(self.normalizer.lemmatize(token[0],tag))
 			tokens = lemmatised_tokens
 		else:
 			# no normaliser so just return tokens
