@@ -1,11 +1,16 @@
 # Change log
 
-## [unreleased] - the following minor changes are reflected in the main branch, but are unreleased
+## [1.0.3] - 2025-05-07 - minor fixes and documentation changes
 
 ### Changed:
 
 - Documentation changes for maintainability
 - Add acknowledgements
+
+### Fixed
+
+- call to lemmatizer (resolves #1, thanks @wmk7nz)
+- add auto-download of averaged_perceptron_tagger_eng for lemmatizer
 
 ## [1.0.2] - 2025-03-17
 
