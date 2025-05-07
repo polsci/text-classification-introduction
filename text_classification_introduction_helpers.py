@@ -17,6 +17,7 @@ from IPython.display import display
 
 downloaded = nltk.download('stopwords')
 downloaded = nltk.download('averaged_perceptron_tagger')
+downloaded = nltk.download('averaged_perceptron_tagger_eng')
 downloaded = nltk.download('punkt')
 downloaded = nltk.download('wordnet')
 
