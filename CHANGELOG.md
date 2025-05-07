@@ -9,7 +9,7 @@
 
 ### Fixed
 
-- call to lemmatizer (resolves #1, thanks @wmk7nz)
+- call to lemmatizer (resolves https://github.com/polsci/text-classification-introduction/issues/1, thanks @wmk7nz)
 - add auto-download of averaged_perceptron_tagger_eng for lemmatizer
 
 ## [1.0.2] - 2025-03-17
