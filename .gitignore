@@ -1,2 +1,4 @@
 __pycache__/
 pending.ipynb
+stop_words_nltk.txt
+*.sqlite

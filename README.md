@@ -19,7 +19,7 @@ Create a folder on our JupyterHub server for this notebook. Upload the files to 
 
 ## Installation  
 
-You should have all the necessary libraries on the class JupyterHub server. If you are running this notebook on your own machine, you can install the necessary libraries using the following command:
+You should have all the necessary libraries installed on the class JupyterHub server. If you are running this notebook on your own machine, you can install the necessary libraries using the following command:
 
 ```bash
 pip install -r requirements.txt
