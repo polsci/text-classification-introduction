@@ -1,6 +1,6 @@
 # Change log
 
-## [1.0.4] - 2025-08-07 - replace imported code with textplumber
+## [1.0.4] - 2025-08-07 - migrate to Textplumber
 
 ### Changed:
 
