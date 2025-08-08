@@ -1,5 +1,13 @@
 # Change log
 
+## [1.0.5] - 2025-08-08 - minor notebook revisions
+
+### Changed:
+
+- generalising references to course LMS
+- suppressing sklearn stop word warnings
+- minor instruction changes
+
 ## [1.0.4] - 2025-08-07 - migrate to Textplumber
 
 ### Changed:
